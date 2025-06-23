@@ -28,11 +28,6 @@ if file_uploaded is not None:
     predicted_class = class_names[class_idx]
     confidence = np.max(predictions)
 
-    st.subheader("Debug Info")
-    st.write("Raw predictions:", predictions)
-    st.write("Predicted class index:", class_idx)
-    st.write("Class names list:", class_names)
-
     st.markdown(f"### Prediction: {predicted_class.capitalize()}")
     st.markdown(f"### Confidence: {confidence:.2f}")
 
