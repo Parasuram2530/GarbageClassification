@@ -1,4 +1,5 @@
-🗑️ Garbage Classification using Transfer Learning (EfficientNetV2B2)
+****🗑️ Garbage Classification using Transfer Learning (EfficientNetV2B2)****
+
 This project aims to build an intelligent garbage classification system using Transfer Learning with the EfficientNetV2B2 architecture. It classifies garbage images into various categories like plastic, glass, cardboard, metal, paper, etc., enabling smarter waste segregation and promoting sustainability.
 
 📌 Problem Statement
